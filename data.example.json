@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Example Issue Title",
+        "description": "This is an example description for the issue."
+    },
+    {
+        "title": "Another Example Issue",
+        "description": "Detailed description for another example issue."
+    },
+    {
+        "title": "Add Login Button in Landing Page",
+        "description": "- [ ] Design the login button UI - 1 hour. - [ ] Implement button in the frontend (`LandingPage.tsx`) - 1 hour. - [ ] Integrate button with backend authentication (`AuthController.php`) - 2 hours. - [ ] Test login functionality - 1 hour."
+    }
+]
