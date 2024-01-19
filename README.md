@@ -27,10 +27,6 @@ GitIssueCreator is a Python tool designed to automate the creation of GitHub iss
     ```bash
     cd git-issue-creator
     ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ### Installing Dependencies
 
@@ -86,4 +82,4 @@ Distributed under the Apache License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/your-username/git-issue-creator](https://github.com/your-username/git-issue-creator)
+Project Link: [https://github.com/irvingzamora28/git-issue-creator](https://github.com/irvingzamora28/git-issue-creator)
